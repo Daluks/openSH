@@ -11,6 +11,6 @@ package com.bmw.testgitopensh;
  */
 public class TestClass {
     public static void main(String[] args) {
-        System.out.println("This is a GIT Test");
+        System.out.println("This is a GIdfgdgT Test sd sd sd ");
     }
 }
